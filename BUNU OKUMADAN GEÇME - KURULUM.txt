@@ -1,0 +1,10 @@
+Önce Konsola;
+npm init -y
+yazalım ve kurulmasını bekliyelim;
+Sonra tekrardan, npm install yazalım ve kurulumu bekleyelim.
+Kurulumlar bittikten sonra botu başlatmak için;
+node .
+yazmanız yeterlidir.
+
+Bu metin belgesini silebilirsiniz!
+By Manere Development 
